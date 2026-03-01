@@ -1,0 +1,46 @@
+html{
+    font-family: "Sulphur Point", sans-serif;
+}
+.main-nav{
+    background-color: hotpink;
+    padding: 20px;
+}
+
+h1{
+    font-size: 50px;
+    margin: 0px;
+    font-weight:800;
+}
+
+.main-content, .second-site-header, .site-footer{
+    padding: 20px;
+}
+
+.main-content{
+    background-color: rgb(255, 183, 0);
+}
+
+.second-site-header{
+    background-color:rgb(255, 167, 181)
+}
+
+.site-footer{
+    background-color: rgb(155, 206, 35);
+}
+.main-content-uwm{
+    background-color: cornsilk;
+    color: darkorchid;
+    padding: 20px;
+}
+.about-uwm {
+    background-color: rgb(18, 114, 158);
+    padding: 20px;
+    color: white;
+}
+
+.site-footer-links{
+    background-color: rgb(69, 153, 153);
+    padding: 20px;
+    color: white;
+}
+
